@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'hubs/net_hub.dart';
 import 'ui/login_screen/login_screen.dart';
 
 void main() {
+  NetHub().initNetHub();
   runApp(const MyApp());
 }
 
