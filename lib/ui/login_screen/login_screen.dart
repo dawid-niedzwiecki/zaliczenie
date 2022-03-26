@@ -1,10 +1,21 @@
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {
-  const LoginScreen({ Key? key }) : super(key: key);
+  const LoginScreen({
+    Key? key,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: AppBar(),
+      body: Column(
+        children: [
+          Center(
+            child: Text('test'),
+          ),
+        ],
+      ),
+    );
   }
 }
