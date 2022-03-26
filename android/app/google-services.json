@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845176450688",
+    "project_id": "zaliczenie-becc9",
+    "storage_bucket": "zaliczenie-becc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845176450688:android:713fe7dd3a3eb466e8c065",
+        "android_client_info": {
+          "package_name": "tech.niedzwiecki.zaliczenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845176450688-hfchlfhqvde689dno18bpve9ma0ql7cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfOYOoBS4ylRrClE76Ezysj6NKSog4dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845176450688-hfchlfhqvde689dno18bpve9ma0ql7cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
